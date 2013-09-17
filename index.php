@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  <style type="text/css">
   	.last {
@@ -26,7 +26,7 @@
          
 	     <br ><br ><br >
 	     <hr >
-	     <p class="last"> <tt><font face="Comic sans MS" size=1> Edited in Sublime Text2</font> </tt></p></div>
+	     <p class="last"> <tt><font face="Comic sans MS" size=1> Edited in Sublime Text2</font> </tt></p>
 	     
 	</body>
 
