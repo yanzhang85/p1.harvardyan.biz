@@ -1,17 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
  
- <style type="text/css">
-  	.last {
- 	 line-height:0.5px;
-	}
-	body {background: rgb(0,220,100);}
-</style>
-
+<html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<style type="text/css">
+  		.last {
+ 		 line-height:0.5px;
+		}
+		body {background: rgb(0,220,100);}
+		</style>
 		<title>  Welcome to Yan's house! </title>
 	</head>
-	<html>
+	
 	<body>
 	    <div align="center"> <h1><strong> <font color="purple">Welcome to Yan's house!</font> </strong> </h1></div>
 
