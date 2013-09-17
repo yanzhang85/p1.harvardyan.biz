@@ -6,12 +6,12 @@
 	}
 	body {background: rgb(0,220,100);}
 </style>
-<html>
+
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>  Welcome to Yan's house! </title>
 	</head>
-	
+	<html>
 	<body>
 	    <div align="center"> <h1><strong> <font color="purple">Welcome to Yan's house!</font> </strong> </h1></div>
 
