@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
  <style>
   	.last {
@@ -12,7 +12,7 @@
 	</head>
 	
 	<body>
-	    <h1><div align="center"> <strong> <font color="purple">Welcome to Yan's house!</font> </strong> </div></h1>
+	    <div align="center"> <h1><strong> <font color="purple">Welcome to Yan's house!</font> </strong> </h1></div>
 
         <br />
 
