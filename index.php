@@ -1,1 +1,31 @@
-Welcome to P1!
+ <style>
+  	.last {
+ 	 line-height:0.5px;
+	}
+	body {background: rgb(0,220,100);}
+</style>
+<html>
+	<head>
+		<title>  Welcome to Yan's house! </title>
+	</head>
+	
+	<body>
+	    <h1><div align="center"> <strong> <font color="purple">Welcome to Yan's house!</font> </strong> </div></h1>
+
+        <br />
+
+		<p> <img src="/users/zyclerk/desktop/2.jpeg" vspace="10" hspace="15" width="120" height="120" alt="Image not available.." align="right">
+		<font face="Times New Roman"> Hello, my friends!</p> 
+
+		<p> I am <font color="blue"><i>Yan Zhang </font></i>, a 28-year-old guy from Shanghai, China. In 2007, I came to US to study biology, and earlier this year I earned the PhD in Genetics. Currently I am working in a bio-tech company. One of my projects is to promote our products online, which brings me to this class. I am interested in computer science, and I think this course will be helpful to my job and future career. In addition, I passed Charted Financial Analyst level III exam this year. I love to make friends, and I hope we all have good time here.</font></p>
+
+	     <br /><br /><br />
+         <p> <font face="Times New Roman">More about me on <a href="https://www.facebook.com/yeah.zhang" target="_blank">Facebook</a>.. </font></p>
+         
+	     <br /><br /><br />
+	     <hr />
+	     <p class="last"> <tt><font face="Comic sans MS" size=1> Edited in Sublime Text2</font> </tt></p></div>
+	     
+	</body>
+
+</html>
